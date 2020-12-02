@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Valerka_is_Cool.dir/main.c.o  -o Valerka_is_Cool.exe -Wl,--out-implib,libValerka_is_Cool.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

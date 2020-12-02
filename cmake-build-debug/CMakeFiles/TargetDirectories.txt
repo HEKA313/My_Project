@@ -1,0 +1,3 @@
+/cygdrive/c/Users/User/Desktop/Valerka_is_Cool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/User/Desktop/Valerka_is_Cool/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/User/Desktop/Valerka_is_Cool/cmake-build-debug/CMakeFiles/Valerka_is_Cool.dir
